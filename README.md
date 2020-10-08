@@ -1,2 +1,2 @@
 # LiquidCrystal_I2C
-LiquidCrystal_I2C for 코딩어레이 키트
+LiquidCrystal Arduino library for the DFRobot I2C LCD displays
